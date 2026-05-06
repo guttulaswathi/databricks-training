@@ -11,17 +11,11 @@ It includes SQL practice, hands-on exercises, and structured weekly progress.
 
 databricks-training/
 ├── Week1/
-
 │   ├── Day1/
-
 │   ├── Day2/
-
 │   ├── Day3/
-
 │   ├── Day4/
-
 │   ├── Day5/
-
 │   ├── Day6/
 
 ---

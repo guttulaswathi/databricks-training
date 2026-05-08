@@ -2,55 +2,75 @@
 
 ## 📖 Topics Learned
 
-### 🔹 SQL Basics
+### 🔹 SQL Clauses
 
-* SELECT statements
-* WHERE conditions
-* Filtering records
+* GROUP BY
+* HAVING
+* ORDER BY
+* DISTINCT
+* BETWEEN
+* IS NULL / IS NOT NULL
 
 ---
 
 ### 🔹 Aggregate Functions
 
+* COUNT()
 * SUM()
 * AVG()
-* COUNT()
 * MAX()
 * MIN()
 
 ---
 
-### 🔹 SQL Clauses
+### 🔹 String Functions
 
-* GROUP BY
-* HAVING
-* DISTINCT
-* ORDER BY
+* UPPER()
+* LOWER()
+* LENGTH()
+* CONCAT()
+* REPLACE()
+* LIKE operator
 
 ---
 
-### 🔹 Operators
+### 🔹 Date Functions
 
-* Comparison operators
-* Logical operators
-* IN and NOT IN
-* BETWEEN
-* LIKE operator
+* CURRENT_DATE
+* CURRENT_TIME
+* YEAR()
+* MONTH()
+* DAY()
+
+---
+
+### 🔹 JOIN Operations
+
+* INNER JOIN
+* LEFT JOIN
+* Joining employee, department, and project tables
+
+---
+
+### 🔹 Subqueries
+
+* Finding highest salary
+* Finding second highest salary
+* Finding employees with salary above average
 
 ---
 
 ## 🧪 Practice Work
 
-* Worked with Employees table
-* Practiced filtering and grouping data
-* Used aggregate functions and conditions
-* Performed pattern matching using LIKE
+* Practiced SQL queries from 21 to 64
+* Worked with filtering, grouping, sorting, and joins
+* Used aggregate and string functions
+* Performed subqueries and date operations
 
 ---
 
 ## 🛠️ Tools Used
 
-* SQL
 * DB Fiddle
 * GitHub
 
@@ -58,7 +78,6 @@
 
 ## 📂 Files Included
 
-* datacreation.sql → table creation and sample data
 * queries.sql → SQL practice queries
 * output.txt → query outputs
 * README.md → learning summary
@@ -67,5 +86,4 @@
 
 ## 🚀 Summary
 
-Today I practiced SQL queries using SELECT, WHERE, GROUP BY, HAVING, DISTINCT, logical operators, and pattern matching. I also learned how to filter and analyze employee data using different SQL conditions.
-
+Today I learned advanced SQL concepts including aggregate functions, joins, subqueries, string functions, date functions, and grouping operations. I also practiced sorting and filtering records using different SQL clauses.
